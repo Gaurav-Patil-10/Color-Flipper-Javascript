@@ -15,7 +15,7 @@ const btn = document.getElementById('button');
 
 const container = document.querySelector('.container');
 
-console.log('Gaurav ')
+
 
 
 btn.addEventListener('click' , function () {
