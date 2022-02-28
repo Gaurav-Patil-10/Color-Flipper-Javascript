@@ -4,7 +4,7 @@ In this Project , Random Colors are Generated using Javascript when the Button i
 
 There are two modes in this project :
 
-## 1. Simple Mode#
+## 1. Simple Mode
 
 In this the Colors are selected from the fix array of Colors as shown below :
 
